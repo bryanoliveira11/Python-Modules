@@ -1,0 +1,9 @@
+dia $data
+
+olá $nome,
+
+gostaria de informar que...
+
+atenciosamente,
+
+$empresa
